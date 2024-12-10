@@ -235,7 +235,7 @@ body.dark-theme {
   overflow: hidden;
   white-space: nowrap; /* Keep text in one line */
   margin: 0 auto;
-  margin-left: 3px;
+  margin-left: 1px;
   font-size: 30px;
   font-weight: bolder;
   justify-content: center;
